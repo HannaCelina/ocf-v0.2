@@ -7,7 +7,7 @@ OCF Website v0.2. Based on Ruby on Rails.
 
 ## Requirements
 
-- You need to have vagrant installed (see instructions [here](https://github.com/ourcommonfuture/dev-setup/))
+- You need to have vagrant installed (see instructions [here](https://github.com/ourcommonfuture/dev-howto))
 
 If you are contributor (of course more requirements ;) :
 
